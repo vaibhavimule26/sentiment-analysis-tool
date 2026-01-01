@@ -32,7 +32,7 @@ Sentiment labels were generated based on rating thresholds.
 The model achieved approximately 60% accuracy on the test dataset.
 
 ## How to Run
-Open the notebook file in google colab and execute al cells sequentially.
+Open the notebook file in google colab and execute all cells sequentially.
 
 ### Author
 Vaibhavi Mule 
